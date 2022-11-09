@@ -31,8 +31,8 @@
 #define WIFI_PASSWORD "carvalho8"
 
 /* 2. If work with RTDB, define the RTDB URL and database secret */
-#define DATABASE_URL "https://project-3110108257700965296-default-rtdb.firebaseio.com/&quot; //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
-#define DATABASE_SECRET "xMPgNCiKDxASES8PqloU0N8rAOFpSxW5YEFsGrik"
+#define DATABASE_URL "https://boostrap-a9db8-default-rtdb.firebaseio.com/"
+#define DATABASE_SECRET "upmptRlESgxHImqcPdUQKIKY6eIPMtvRb8H1Fq90"
 
 /* 3. Define the Firebase Data object */
 FirebaseData fbdo;
